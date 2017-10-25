@@ -1,4 +1,4 @@
-## Carl Van Vechten Exhibition Website - BR 
+## Carl Van Vechten Exhibition Website
 
 The `src` folder contains the code and assets for the interactive touch screen exhibit.
 
